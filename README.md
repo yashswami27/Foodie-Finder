@@ -83,7 +83,3 @@ Routes are protected and accessible only when authorized
 👨‍💻 Developed By
 Yash Swami
 BTech CSE, Pandit Deendayal Energy University
-
-🔗 GitHub – Chirag
-
-🔗 GitHub – Your Friend
